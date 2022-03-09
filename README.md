@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isshosng
-- 👀 I’m interested in financial IT
-- 🌱 I’m currently learning Java lang
-- 👨‍🎓 I studied Geoinformatics at Inha Univ.
+- 👀 financial IT, remote sensing and mobile 
+- 🌱 Java, Python, Matlab, C++ lang
+- 👨‍🎓 Geoinformatics at Inha Univ.
 - 📫 insta @isshosng
 
 <!---
