@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isshosng
-- 👀 financial IT, remote sensing and mobile 
+- 👀 financial IT, Back-End
 - 🌱 Java, Python, Matlab, C++ lang
 - 👨‍🎓 Geoinformatic engineering at Inha Univ.
 - 📫 insta @isshosng mail purehug@hanmail.net
