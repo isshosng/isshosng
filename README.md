@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isshosng
-- 👀 financial IT, Back-End
-- 🌱 Java, Javascript
+- 👀 financial IT, e-commerce
+- 🌱 Spring, Mobile
 - 👨‍🎓 Geoinformatic engineering at Inha Univ.
 - 📫 purehug@hanmail.net
 
